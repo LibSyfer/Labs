@@ -1,0 +1,50 @@
+++++++++++++++++++++++++++++++++++++
+0: Exit
+1: Fake figure demonstration
+2: Array figure demonstration
+3: Real figure demonstration
+Input real figure id:
+1: Square
+2: Rectangle
+3: Trapezoid
+Input 4 coordinates in a sequence
+Coordinates: (0, 100)  (100, 100)  (100, 0)  (0, 0) 
+
+Center: (50, 50) 
+Area: 10000
+
+++++++++++++++++++++++++++++++++++++
+0: Exit
+1: Fake figure demonstration
+2: Array figure demonstration
+3: Real figure demonstration
+Input real figure id:
+1: Square
+2: Rectangle
+3: Trapezoid
+Input 4 coordinates in a sequence
+Coordinates: (0, 0)  (0.4, 0)  (0.4, 1000)  (0, 1000) 
+
+Center: (0.2, 500) 
+Area: 400
+
+++++++++++++++++++++++++++++++++++++
+0: Exit
+1: Fake figure demonstration
+2: Array figure demonstration
+3: Real figure demonstration
+Input real figure id:
+1: Square
+2: Rectangle
+3: Trapezoid
+Input 4 coordinates in a sequence
+Coordinates: (0, 0)  (50, 50)  (150, 50)  (100, 0) 
+
+Center: (75, 25) 
+Area: 5000
+
+++++++++++++++++++++++++++++++++++++
+0: Exit
+1: Fake figure demonstration
+2: Array figure demonstration
+3: Real figure demonstration

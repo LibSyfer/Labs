@@ -1,0 +1,12 @@
+++++++++++++++++++++++++++++++++++++
+0: Exit
+1: Fake figure demonstration
+2: Array figure demonstration
+3: Real figure demonstration
+Input real figure id:
+1: Square
+2: Rectangle
+3: Trapezoid
+Input 4 coordinates in a sequence
+oop_exercise_04: /home/vladislav/Рабочий стол/prog_3_sem/oop_labs/lab_04/square.h:26: Square<T>::Square(std::istream&) [with T = double; std::istream = std::basic_istream<char>]: Assertion `IsCorrect()' failed.
+[1]    25916 abort (core dumped)  ./oop_exercise_04 < test_02.test > test_02.result
